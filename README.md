@@ -1,4 +1,4 @@
-# privatesuperintelligence-si
+# Private SuperIntelligence
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,130 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-privatesuperintelligence-si is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://privatesuperintelligence.si/
+Private SuperIntelligence, operated by Mitosis Labs, offers private AI services for founders, owners, and principals. The platform provides uncensored, secure AI that runs exclusively for each client, ensuring data privacy, zero telemetry, and customizable rules. Access is invitation‑only, with a focus on high‑agency decision‑making in finance, legal, and family office contexts. The service emphasizes air‑gapped privacy, expert oversight, and bespoke deployments for confidential enterprise use.
+
+**Areas:** Company · AI · Private · Enterprise · Security
+
+## Private SuperIntelligence on APIs.io
+
+Everything profiled for Private SuperIntelligence is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/privatesuperintelligence-si/](https://apis.io/providers/privatesuperintelligence-si/)** — or go straight to one of the APIs or properties below.
+
+### APIs (3)
+
+- [Private SuperIntelligence Assessment API](https://apis.io/apis/privatesuperintelligence-si/privatesuperintelligence-si-assessment-api/) — AI data exposure check.
+- [Private SuperIntelligence Public API](https://apis.io/apis/privatesuperintelligence-si/privatesuperintelligence-si-public-api/) — Read-only information about the service.
+- [Private SuperIntelligence Registration API](https://apis.io/apis/privatesuperintelligence-si/privatesuperintelligence-si-registration-api/) — Join the waitlist.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Private SuperIntelligence Agentic Access](https://apis.io/agentic-access/privatesuperintelligence-si/privatesuperintelligence-si-agentic-access/)
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [Benchmarks](https://apis.io/schemas/privatesuperintelligence-si/privatesuperintelligence-si-benchmarks/)
+- [Definition](https://apis.io/schemas/privatesuperintelligence-si/privatesuperintelligence-si-definition/)
+- [InterestRequest](https://apis.io/schemas/privatesuperintelligence-si/privatesuperintelligence-si-interest-request/)
+- [Metric](https://apis.io/schemas/privatesuperintelligence-si/privatesuperintelligence-si-metric/)
+- [Passage](https://apis.io/schemas/privatesuperintelligence-si/privatesuperintelligence-si-passage/)
+- [PrivacyLayer](https://apis.io/schemas/privatesuperintelligence-si/privatesuperintelligence-si-privacy-layer/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Privatesuperintelligence Si Context](https://apis.io/jsonld/privatesuperintelligence-si/privatesuperintelligence-si-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Private SuperIntelligence API Rules](https://apis.io/rules/privatesuperintelligence-si/privatesuperintelligence-si-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Private SuperIntelligence Domain Security](https://apis.io/security/privatesuperintelligence-si/privatesuperintelligence-si-domain-security/)
+- [Private SuperIntelligence Vulnerability Disclosure](https://apis.io/security/privatesuperintelligence-si/privatesuperintelligence-si-vulnerability-disclosure/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Private SuperIntelligence Plans Pricing](https://apis.io/plans/privatesuperintelligence-si/privatesuperintelligence-si-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://privatesuperintelligence.si/)
+- [Documentation](https://privatesuperintelligence.si/developers/)
+- [API reference](https://privatesuperintelligence.si/openapi.json)
+- [Pricing](https://privatesuperintelligence.si/pricing.md)
+- [Blog](https://privatesuperintelligence.si/blog/)
+- [Security](https://privatesuperintelligence.si/privacy/)
+- [Privacy policy](https://privatesuperintelligence.si/privacy/)
+
+## API Evangelist rating
+
+**Kin Score 44.1** — developing · rubric 0.28.0 · scored 2026-11-21
+
+| Facet | Score |
+|---|---|
+| Discoverability | 76.8 |
+| Contract quality | 59.5 |
+| Contract governance | 79.1 |
+| Operational transparency | 9.5 |
+| Developer ergonomics | 19.0 |
+| Access clarity | 32.3 |
+
+**Agent readiness 54.0** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | verified |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | verified |
+| Rate Limit Signal | verified |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | conformant |
+| Dry Run Mode | yes |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | paginated |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 19.1** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/privatesuperintelligence-si/](https://apis.io/providers/privatesuperintelligence-si/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Private SuperIntelligence: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/privatesuperintelligence-si/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
